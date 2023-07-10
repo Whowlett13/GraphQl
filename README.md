@@ -11,11 +11,11 @@
 
 ## Description Of Functionality:
 
--
+- A book search library
 
 ## Link To Deployed Application:
 
-- Link:
+- Link: https://github.com/Whowlett13/GraphQl
 
 ## ScreenShot of Deployed Application:
 
